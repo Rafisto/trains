@@ -1,0 +1,328 @@
+- 0: Bohumin
+- 1: Augustów
+- 2: Bełżec
+- 3: Biała Podlaska
+- 4: Białogard
+- 6: Białystok
+- 7: Bielsko-Biała Główna
+- 8: Bielsk Podlaski
+- 9: Bochnia
+- 10: Bolesławiec
+- 11: Brzeg
+- 12: Brzeg Dolny
+- 13: Busko-Zdrój
+- 14: Bydgoszcz Główna
+- 15: Bytom
+- 16: Chełm
+- 17: Chodzież
+- 18: Chojnice
+- 19: Choszczno
+- 20: Ciechanów
+- 22: Cieszyn
+- 23: Czechowice-Dziedzice
+- 25: Czerwieńsk
+- 26: Częstochowa
+- 27: Człuchów
+- 28: Czyżew
+- 29: Darłowo
+- 30: Dąbrowa Górnicza
+- 31: Dębica
+- 32: Dęblin
+- 33: Dębica Wschodnia
+- 34: Drzewica
+- 35: Duszniki-Zdrój
+- 36: Dzierżoniów Śląski
+- 37: Elbląg
+- 38: Ełk
+- 40: Gdańsk Główny
+- 41: Gdynia Główna
+- 42: Giżycko
+- 43: Gliwice
+- 44: Głogów
+- 45: Gniezno
+- 46: Gorzów Wielkopolski
+- 47: Port Lotniczy Szczecin Goleniów
+- 48: Grudziądz
+- 49: Gubin
+- 51: Hel
+- 53: Iława Główna
+- 54: Inowrocław
+- 55: Jabłonowo Pomorskie
+- 56: Jarocin
+- 57: Jarosław
+- 58: Jasło
+- 59: Jastarnia
+- 60: Jaworzno Szczakowa
+- 61: Jaworzyna Śląska
+- 62: Jedlina-Zdrój
+- 63: Jelenia Góra
+- 64: Jurata
+- 65: Kalisz
+- 66: Kalisz Pomorski
+- 67: Kamieniec Ząbkowicki
+- 68: Kamień Pomorski
+- 70: Kartuzy
+- 71: Katowice
+- 72: Kędzierzyn-Koźle
+- 73: Kielce
+- 74: Kluczbork
+- 75: Kłodzko Główne
+- 76: Koluszki
+- 77: Koło
+- 78: Kołobrzeg
+- 79: Konin
+- 80: Kostrzyn
+- 81: Koszalin
+- 82: Kościan
+- 83: Kościerzyna
+- 84: Kołobrzeg Stadion
+- 85: Kraków Główny
+- 86: Kraków Płaszów
+- 87: Krosno
+- 88: Krotoszyn
+- 89: Krynica-Zdrój
+- 90: Krzyż
+- 91: Kudowa-Zdrój
+- 92: Kunowice
+- 94: Kutno
+- 95: Kuźnica Białostocka
+- 97: Laskowice Pomorskie
+- 98: Lądek Zdrój
+- 99: Legnica
+- 100: Leszno
+- 101: Lębork
+- 102: Lubań Śląski
+- 103: Lublin Główny
+- 104: Lubliniec
+- 106: Lwówek Śląski
+- 107: Łańcut
+- 108: Łapy
+- 109: Łeba
+- 110: Łowicz Główny
+- 111: Łódź Chojny
+- 112: Łódź Fabryczna
+- 113: Łódź Kaliska
+- 114: Łódź Widzew
+- 115: Łuków
+- 116: Małaszewicze Przystanek
+- 117: Malbork
+- 118: Małdyty
+- 119: Małkinia
+- 120: Medyka
+- 121: Medyka Towarowa
+- 122: Międzylesie
+- 124: Międzyzdroje
+- 125: Międzyrzec Podlaski
+- 126: Mogilno
+- 127: Morąg
+- 128: Muszyna
+- 129: Medyka Rozrządowa
+- 130: Nałęczów
+- 131: Nasielsk
+- 132: Nowa Ruda
+- 133: Nowa Sól
+- 134: Nowy Sącz
+- 135: Nowy Targ
+- 136: Nysa
+- 137: Olesno Śląskie
+- 138: Oleśnica
+- 139: Olkusz
+- 140: Olsztyn Główny
+- 141: Opole Główne
+- 142: Ostrołęka
+- 143: Ostrowiec Świętokrzyski
+- 144: Ostróda
+- 145: Ostrów Wielkopolski
+- 146: Oświęcim
+- 147: Otwock
+- 148: Pabianice
+- 149: Pasłęk
+- 150: Pilawa
+- 151: Piła Główna
+- 152: Pionki Zachodnie
+- 153: Piotrków Trybunalski
+- 155: Pleszew
+- 156: Płock
+- 157: Polanica-Zdrój
+- 159: Poznań Główny
+- 160: Prabuty
+- 161: Prudnik
+- 162: Przemyśl Główny
+- 163: Przeworsk
+- 164: Przysucha
+- 165: Pszczyna
+- 166: Puławy Miasto
+- 167: Racibórz
+- 168: Racławice Śląskie
+- 169: Radom Główny
+- 170: Radomsko
+- 171: Rawicz
+- 172: Reda
+- 173: Rejowiec
+- 174: Runowo Pomorskie
+- 175: Rybnik
+- 176: Rudna Gwizdanów
+- 177: Rzepin
+- 178: Rzeszów Główny
+- 179: Sandomierz
+- 180: Sanok
+- 182: Siedlce
+- 183: Sieradz
+- 184: Sierpc
+- 185: Skarżysko-Kamienna
+- 186: Skierniewice
+- 187: Sławno
+- 188: Słupsk
+- 189: Sokółka
+- 190: Sopot
+- 191: Sosnowiec Główny
+- 192: Stalowa Wola
+- 193: Stalowa Wola Rozwadów
+- 194: Stary Sącz
+- 195: Stróże
+- 196: Sulechów
+- 197: Suwałki
+- 198: Stargard
+- 199: Szamotuły
+- 200: Szczecin Dąbie
+- 201: Szczecin Główny
+- 202: Siedlce Zachodnie
+- 203: Olsztyn Śródmieście
+- 206: Szczecinek
+- 207: Szczytno
+- 208: Szepietowo
+- 209: Szklarska Poręba Górna
+- 210: Ścinawa
+- 212: Środa Wielkopolska
+- 213: Świdnica Miasto
+- 214: Świdnik Miasto
+- 215: Świebodzin
+- 217: Świnoujście
+- 218: Targowiska
+- 219: Tarnowskie Góry
+- 220: Tarnów
+- 221: Tczew
+- 222: Terespol
+- 224: Tłuszcz
+- 225: Tomaszów Mazowiecki
+- 226: Toruń Główny
+- 227: Toruń Wschodni
+- 228: Trzebinia
+- 229: Tuplice
+- 230: Tychy
+- 232: Ustka
+- 233: Wągrowiec
+- 234: Wejherowo
+- 235: Węgliniec
+- 237: Wieluń
+- 238: Wielbark
+- 239: Wierzchucin
+- 240: Wisła Uzdrowisko
+- 241: Wałbrzych Główny
+- 242: Warszawa Centralna
+- 243: Warszawa Gdańska
+- 244: Warszawa Wschodnia
+- 245: Włocławek
+- 247: Wołów
+- 248: Wrocław Główny
+- 249: Wronki
+- 250: Września
+- 251: Zabrze
+- 252: Zagórz
+- 253: Zakopane
+- 254: Zamość
+- 256: Zasieki
+- 257: Zawada
+- 258: Zawiercie
+- 259: Zbąszynek
+- 260: Zduńska Wola
+- 261: Zduńska Wola Karsznice
+- 262: Zebrzydowice
+- 264: Zgorzelec
+- 266: Zgorzelec Miasto
+- 267: Zielona Góra Główna
+- 268: Złocieniec
+- 269: Żagań
+- 270: Żary
+- 271: Żegiestów-Zdrój
+- 274: Lublin Airport
+- 275: Zamość Starówka
+- 276: Zamość Wschód
+- 278: Chałupki
+- 279: Lubin
+- 280: Płock Radziwie
+- 281: Starachowice
+- 283: Ustronie Morskie
+- 284: Wieluń Dąbrowa
+- 295: Lublin Zachodni
+- 366: Puławy Azoty
+- 401: Korsze
+- 402: Działdowo
+- 403: Warszawa Wileńska
+- 404: Warszawa Zachodnia
+- 405: Braniewo
+- 408: Kętrzyn
+- 409: Warszawa Zacisze-Wilno
+- 410: Głowno
+- 415: Trakiszki
+- 416: Czerwonka
+- 418: Nidzica
+- 422: Mława
+- 423: Hajnówka
+- 424: Czeremcha
+- 425: Wyszków
+- 427: Zielonka
+- 428: Legionowo
+- 429: Mińsk Mazowiecki
+- 430: Piaseczno
+- 431: Pruszków
+- 433: Grajewo
+- 435: Ruciane-Nida
+- 436: Pisz
+- 437: Pisz Wschodni
+- 501: Bydgoszcz Wschód
+- 503: Czempiń
+- 505: Godków
+- 506: Goleniów
+- 507: Gryfino
+- 508: Korzybie
+- 509: Kowalewo Pomorskie
+- 510: Lipowa Tucholska
+- 511: Maksymilianowo
+- 512: Nakło nad Notecią
+- 513: Poznań Starołęka
+- 514: Poznań Wschód
+- 515: Pruszcz Gdański
+- 516: Pszczółki
+- 517: Rogoźno Wielkopolskie
+- 518: Skoki
+- 519: Skwierzyna
+- 520: Smętowo
+- 521: Swarzędz
+- 522: Szlachta
+- 523: Terespol Pomorski
+- 524: Wolsztyn
+- 525: Worowo
+- 526: Wysoka Kamieńska
+- 700: Zgierz Jaracza
+- 701: Sochaczew
+- 702: Zgierz
+- 704: Chrzanów
+- 705: Chybie
+- 706: Dorohusk
+- 708: Herby Nowe
+- 709: Kalwaria Zebrzydowska Lanckorona
+- 710: Katowice Ligota
+- 711: Koniecpol
+- 712: Kozłów
+- 714: Mysłowice Kosztowy
+- 715: Orzesze Jaśkowice
+- 716: Pyskowice
+- 717: Spytkowice
+- 718: Strzelce Opolskie
+- 719: Żory
+- 902: Chojnów
+- 903: Kępno
+- 904: Kobierzyce
+- 905: Marciszów
+- 906: Wrocław Brochów

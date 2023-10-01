@@ -1,0 +1,9 @@
+jedyny działający (chyba) wrapper do koleo jest w JS. RMS does not approve. Mój bd w bashu.
+
+curl https://koleo.pl/ls?q="Mok"
+
+{"stations": [{"id":263501,"name":"Mokronos Górny","name_slug":"mokronos-gorny","ibnr":7577,"localised_name":"Mokronos Górny","on_demand":false},{"id":37994,"name":"Mokra Wieś","name_slug":"mokra-wies","ibnr":1286,"localised_name":"Mokra Wieś","on_demand":false},{"id":28985,"name":"Mokrz","name_slug":"mokrz","ibnr":7290,"localised_name":"Mokrz","on_demand":false},{"id":258646,"name":"Warszawa Mokry Ług","name_slug":"warszawa-mokry-lug","ibnr":1480,"localised_name":"Warszawa Mokry Ług","on_demand":false},{"id":1636,"name":"Mokrzyca Wielka","name_slug":"mokrzyca-wielka","ibnr":8235,"localised_name":"Mokrzyca Wielka","on_demand":false}]}
+
+wszystkie rodzaje biletów:
+
+https://koleo.pl/tariffs

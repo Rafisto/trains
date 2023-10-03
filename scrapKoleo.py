@@ -1,6 +1,6 @@
 import requests as req
 
-start_range = 999
+start_range = 0
 end_range = 2000
 entries = []
 
